@@ -4,7 +4,7 @@ Takes test data as input
 Takes Decision tree threshold files as input
 Displays the confusion matrix for the result
 Plots the Decision boundary for test result
-Author : Ritvik Joshi, Rahul Dashora, Amruta Deshpande
+Author : Rahul Dashora
 """
 
 
