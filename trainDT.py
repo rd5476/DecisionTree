@@ -4,7 +4,7 @@ Identifies best split threshold and best attributes
 Uses Information gain for attribute selection
 Performs chi-squared pruning after DT is created
 Write the threshold onto two files - normal_threshold, chi_squared_threshold
-Author - Ritvik Joshi, Rahul Dashora, Amruta Deshpande
+Author -Rahul Dashora
 """
 
 from csv import reader
